@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Arjun - @Jaat0050
-- 👀 I’m interested in Flutter app development 
-- 🌱 I’m currently learning dart and flutter 
+- #Hi, I’m Arjun! 👋
+- 🌱 I’m currently working on dart and flutter 
 - 📫 How to reach me - WhatsApp me here https://wa.me/917417662218
 
 
