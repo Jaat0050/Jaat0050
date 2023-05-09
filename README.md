@@ -1,4 +1,4 @@
-#- Hi, I’m Arjun! 👋
+Hi, I’m Arjun! 👋
 - 🌱 I’m currently working on dart and flutter 
 - 📫 How to reach me - WhatsApp me here https://wa.me/917417662218
 
