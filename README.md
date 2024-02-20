@@ -92,7 +92,7 @@
     </p>
     <p>&nbsp;</p>
     <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaat0050&show_icons=true&locale=en" alt="jaat0050" />
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=jaat0050&show_icons=true&locale=en" alt="jaat0050" />
     </p>
     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaat0050&" alt="jaat0050" />
