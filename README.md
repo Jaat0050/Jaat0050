@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arjun Rana</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaat0050&label=Profile%20views&color=0e75b6&style=flat" alt="Jaat0050" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaat0050&label=Profile%20views&color=0e75b6&style=flat" alt="jaat0050" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jaat0050" alt="Jaat0050" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaat0050" alt="jaat0050" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rana_a_005" target="blank"><img src="https://img.shields.io/twitter/follow/rana_a_005?logo=twitter&style=for-the-badge" alt="rana_a_005" /></a> </p>
 
@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Nodejs and Vuejs**
 
-- 👯 I’m looking to collaborate on [Expensive](https://github.com/Jaat0050/expensive-app)
+- 👯 I’m looking to collaborate on [Expensive](https://github.com/jaat0050/expensive-app)
 
-- 👨‍💻 All of my projects are available at [https://Jaat0050.github.io/portfolio/](https://Jaat0050.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://jaat0050.github.io/portfolio/](https://jaat0050.github.io/portfolio/)
 
 - 💬 Ask me about **Flutter firebase and github**
 
@@ -48,11 +48,11 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaat0050&show_icons=true&locale=en&layout=compact" alt="Jaat0050" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaat0050&show_icons=true&locale=en&layout=compact" alt="jaat0050" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaat0050&show_icons=true&locale=en" alt="Jaat0050" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaat0050&show_icons=true&locale=en" alt="jaat0050" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaat0050&" alt="Jaat0050" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaat0050&" alt="jaat0050" /></p>
 
 
 <!---
@@ -63,6 +63,6 @@ Hi, I’m Arjun! 👋
 
 
 <!---
-Jaat0050/Jaat0050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jaat0050/jaat0050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
