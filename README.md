@@ -87,21 +87,11 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         </a>
     </p>
-<!--     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaat0050&show_icons=true&locale=en&layout=compact" alt="jaat0050" />
-    </p>
-    <p>&nbsp;</p>
-    <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaat0050&show_icons=true&locale=en" alt="jaat0050" />
-    </p>
-    <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaat0050&" alt="jaat0050" />
-    </p> -->
     <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <div style="margin-bottom: 20px;">
+    <div style="margin-bottom: 30px;">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaat0050&show_icons=true&locale=en&layout=compact" alt="jaat0050" />
     </div>
-        <div style="margin-bottom: 20px;">
+        <div style="margin-bottom: 30px;">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaat0050&show_icons=true&locale=en" alt="jaat0050" />
     </div>
         <br>
