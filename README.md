@@ -35,7 +35,7 @@
         <a href="https://twitter.com/rana_a_005" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rana_a_005" height="30" width="40" />
         </a>
-        <a href="https://linkedin.com/in/in/arjun-rana-738503194" target="blank">
+        <a href="https://linkedin.com/in/arjun-rana-738503194" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/arjun-rana-738503194" height="30" width="40" />
         </a>
         <a href="https://fb.com/arjunrana.jaat.1" target="blank">
